@@ -1,0 +1,23 @@
+{
+  "name": "simon-jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChronoLogic12/simon-jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChronoLogic12/simon-jest-practice/issues"
+  },
+  "homepage": "https://github.com/ChronoLogic12/simon-jest-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "jest-environment-jsdom": "^28.0.2"
+  }
+}
